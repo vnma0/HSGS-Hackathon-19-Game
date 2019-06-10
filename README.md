@@ -3,7 +3,7 @@ List of games successfully submitted to Hackathon
 
 |          ID           | Team | GitHub URL                                                                    | Version                                                                                                         |
 | :-------------------: | :--: | :---------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------- |
-|      [N10](/N10)      |  2   | https://github.com/vuminhducvmd/N10                                           | https://github.com/vuminhducvmd/N10/tree/022565e10ccff8a9e3ccc3232fa7e0329edac82b                               |
+|      [N10](./N10)      |  2   | https://github.com/vuminhducvmd/N10                                           | https://github.com/vuminhducvmd/N10/tree/022565e10ccff8a9e3ccc3232fa7e0329edac82b                               |
 |      [N19](/N19)      |  11  | https://github.com/TEAMHACKATHON10/N19                                        | https://github.com/TEAMHACKATHON10/N19/tree/7f2367d7f2d1f334a8af22f01a926f8335596b34                            |
 |      [N26](/N26)      |  7   | https://github.com/tomnth66/N26-hackathon                                     | https://github.com/tomnth66/N26-hackathon/tree/9989979f9cb602a7d0f6bbcec4cee6096cbbdee9                         |
 |      [N32](/N32)      |  7   | https://github.com/tomnth66/N32-hackathon                                     | https://github.com/tomnth66/N32-hackathon/tree/312147221a4f373e8b3d2c6995cac3404b4807da                         |
